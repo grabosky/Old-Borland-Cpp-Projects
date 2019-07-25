@@ -1,7 +1,10 @@
 Simple LAN Chat v1.0 (Polish ver.)
-Adam Grabowski
+Author: Adam Grabowski
 Year: 2006
 Language: C++
 
 Description (English):
 Small app for chatting in LAN. Application have embedded Server and as Client as one.
+
+Description (Polish):
+Mała aplikacja do czatowania w LANie. Działa zarówno jako Serwer jak i jako Klient.
