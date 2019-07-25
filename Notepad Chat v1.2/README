@@ -1,5 +1,5 @@
 Notepad Chat v1.2 (Polish ver.)
-Adam Grabowski
+Author: Adam Grabowski
 Year: 2006
 Language: C++
 
@@ -7,3 +7,8 @@ Description (English):
 Small Windows chat app imitating actual notepad for chatting with other people in the local network.
 It looks like you have notepad opened for writing notes but you could talk with other friends over LAN at school, work etc. 
 Looked nice on Windows XP.
+
+Description (Polish):
+Mała aplikacja typu czat imitująca Windowsowy Notatnik.
+Wygląda jakbys miał otwarty program do pisania notatek, ale służy do rozmawiania przyjaciółmi przez sieć LAN w szkole, pracy itp.
+Wyglądał ładnie w systemie Windows XP.
